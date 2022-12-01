@@ -1,0 +1,1 @@
+# Naive-Bayes-Classifier-Adult-income-prediction
